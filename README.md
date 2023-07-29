@@ -13,7 +13,11 @@
 ## ABOUT:
 
 ```
-Blogify is a dynamic and interactive web application that empowers users to express themselves through captivating blogs across diverse categories. Developed using Core Java, JDBC, Servlet, and JSP technologies, Blogify offers a seamless and engaging platform where individuals can share their thoughts, ideas, and expertise with the world.
+Blogify is a dynamic and interactive web application that empowers users
+ to express themselves through captivating blogs across diverse categories.
+Developed using Core Java, JDBC, Servlet, and JSP technologies, Blogify
+offers a seamless and engaging platform where individuals can share their
+ thoughts, ideas, and expertise with the world.
 ```
 
 ## FEATURES & ADVANTAGES:

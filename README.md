@@ -1,6 +1,5 @@
 # Blogify - Empowering Voices, Connecting Minds
 
----
 
 ## NOTICE:
 

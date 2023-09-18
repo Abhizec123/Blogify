@@ -106,3 +106,28 @@ importance of continuous learning and adaptability in the field of software deve
 3. Edit Post Feature should be implemented
 ```
 
+## SCREENSHOTS:
+
+![1](https://github.com/Abhizec123/Blogify/assets/79994725/08fcc76f-d0ff-4133-9ee2-3c7e8bd9a5a9)
+
+![2](https://github.com/Abhizec123/Blogify/assets/79994725/ea46ba12-d89a-405b-abae-3b6ab3c5e8de)
+
+![5](https://github.com/Abhizec123/Blogify/assets/79994725/406be05f-0471-48ba-9251-11da73601374)
+![4](https://github.com/Abhizec123/Blogify/assets/79994725/13288ec3-a189-479f-a24c-d44c4b7b0a19)
+![3](https://github.com/Abhizec123/Blogify/assets/79994725/0e01ee57-4cdd-446d-87a9-425391ebe478)
+
+
+![18](https://github.com/Abhizec123/Blogify/assets/79994725/5edeee54-263b-49d7-a171-d5f8be5b1065)
+![17](https://github.com/Abhizec123/Blogify/assets/79994725/b2912411-9f34-4e2a-be40-eaaa4f6e4339)
+![16](https://github.com/Abhizec123/Blogify/assets/79994725/405232a9-f424-4ca0-aee3-7f4ff92e7ab2)
+![15](https://github.com/Abhizec123/Blogify/assets/79994725/93eabaeb-b182-4da4-8600-393f607a16e8)
+![14](https://github.com/Abhizec123/Blogify/assets/79994725/7e2b4eeb-93d3-41f5-9c29-63323b789d04)
+![13](https://github.com/Abhizec123/Blogify/assets/79994725/5fac0655-90d8-4a6c-bd23-cf4c0633bb7b)
+![12](https://github.com/Abhizec123/Blogify/assets/79994725/3230c309-256e-4c55-9d3d-ee3655658a02)
+![11](https://github.com/Abhizec123/Blogify/assets/79994725/82d3cddb-11a4-49d0-bde9-0950b9782ada)
+![10](https://github.com/Abhizec123/Blogify/assets/79994725/101e2be9-47f8-46ae-b08a-b87c0cc2923a)
+![9](https://github.com/Abhizec123/Blogify/assets/79994725/e23cece3-6b92-43ff-924b-e6ed3a81393b)
+![8](https://github.com/Abhizec123/Blogify/assets/79994725/b41cf43a-8a86-4932-87ca-9b9d439449f5)
+![7](https://github.com/Abhizec123/Blogify/assets/79994725/07cc4705-6de5-4afa-835e-fa8182da0969)
+![6](https://github.com/Abhizec123/Blogify/assets/79994725/6935f94b-2c47-423b-8845-7ff48eb9d8e5)
+
